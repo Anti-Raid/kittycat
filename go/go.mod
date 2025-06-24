@@ -1,4 +1,4 @@
-module github.com/infinitybotlist/kittycat/go
+module github.com/anti-raid/kittycat/go
 
 go 1.21.5
 
